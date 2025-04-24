@@ -12,7 +12,7 @@ Welcome, contributing to `chainevents` is easy!
 
 1. Submit or comment your intent on an issue
 1. We will try to respond quickly
-1. Fork this repo
+1. Fork this repo (fork all branches)
 1. Submit your PR against `main`
 1. Address PR Review
 
